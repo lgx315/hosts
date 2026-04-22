@@ -1,91 +1,91 @@
 # ING Hosts Start
-# Update at: 2026-04-22 11:19:13
+# Update at: 2026-04-22 15:57:48
 # GitHub Hosts Start
-185.199.111.153 github.io
-140.82.113.3    github.com
+185.199.110.153 github.io
+140.82.114.4    github.com
 192.0.66.2      github.blog
-140.82.114.18   github.community
-140.82.113.5    api.github.com
-140.82.112.21   api.githubcopilot.com
-140.82.113.3    gist.github.com
-140.82.113.9    codeload.github.com
-140.82.113.21   central.github.com
-140.82.112.21   collector.github.com
-185.199.108.133 raw.github.com
-185.199.108.154 docs.github.com
-185.199.110.133 raw.githubusercontent.com
+140.82.112.18   github.community
+140.82.112.5    api.github.com
+140.82.112.22   api.githubcopilot.com
+140.82.114.4    gist.github.com
+140.82.113.10   codeload.github.com
+140.82.114.21   central.github.com
+140.82.112.22   collector.github.com
+185.199.109.133 raw.github.com
+185.199.110.154 docs.github.com
+185.199.108.133 raw.githubusercontent.com
 185.199.110.133 camo.githubusercontent.com
-185.199.108.133 cloud.githubusercontent.com
-185.199.108.133 media.githubusercontent.com
-185.199.109.133 desktop.githubusercontent.com
-185.199.111.133 objects.githubusercontent.com
-185.199.109.133 favicons.githubusercontent.com
-185.199.109.133 avatars5.githubusercontent.com
+185.199.111.133 cloud.githubusercontent.com
+185.199.111.133 media.githubusercontent.com
+185.199.111.133 desktop.githubusercontent.com
+185.199.108.133 objects.githubusercontent.com
+185.199.108.133 favicons.githubusercontent.com
+185.199.110.133 avatars5.githubusercontent.com
 185.199.111.133 avatars4.githubusercontent.com
-185.199.111.133 avatars3.githubusercontent.com
-185.199.109.133 avatars2.githubusercontent.com
-185.199.111.133 avatars1.githubusercontent.com
-185.199.109.133 avatars0.githubusercontent.com
-185.199.110.133 avatars.githubusercontent.com
-185.199.109.133 user-images.githubusercontent.com
+185.199.109.133 avatars3.githubusercontent.com
+185.199.110.133 avatars2.githubusercontent.com
+185.199.110.133 avatars1.githubusercontent.com
+185.199.110.133 avatars0.githubusercontent.com
+185.199.108.133 avatars.githubusercontent.com
+185.199.110.133 user-images.githubusercontent.com
 138.91.182.224  copilot-proxy.githubusercontent.com
-185.199.109.154 github-releases.githubusercontent.com
+185.199.110.154 github-releases.githubusercontent.com
 13.107.42.16    pipelines.actions.githubusercontent.com
 20.246.184.240  pipelinesghubeus7.actions.githubusercontent.com
-185.199.111.153 githubstatus.com
-140.82.114.22   collector.githubapp.com
-185.199.111.215 github.githubassets.com
-185.199.109.153 analytics.githubassets.com
-185.199.108.133 github.map.fastly.net
-146.75.117.194  github.global.ssl.fastly.net
-16.15.254.156   github-cloud.s3.amazonaws.com
-54.231.171.33   github-com.s3.amazonaws.com
-16.15.223.247   github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.183.126   github-production-user-asset-6210df.s3.amazonaws.com
-16.15.223.247   github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.110.153 githubstatus.com
+140.82.114.21   collector.githubapp.com
+185.199.109.215 github.githubassets.com
+185.199.111.153 analytics.githubassets.com
+185.199.110.133 github.map.fastly.net
+146.75.121.194  github.global.ssl.fastly.net
+52.216.210.113  github-cloud.s3.amazonaws.com
+52.217.230.97   github-com.s3.amazonaws.com
+54.231.128.193  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.252.242   github-production-user-asset-6210df.s3.amazonaws.com
+52.216.210.113  github-production-repository-file-5c1aeb.s3.amazonaws.com
 # GitHub Hosts End
 # Docker Hosts Start
-32.195.147.39   registry.hub.docker.com
+3.233.14.244    registry.hub.docker.com
 172.64.144.69   hub.docker.com
-54.167.75.77    index.docker.io
-140.82.113.34   ghcr.io
+18.233.78.24    index.docker.io
+140.82.112.33   ghcr.io
 74.125.21.82    gcr.io
 74.125.136.82   k8s.gcr.io
-100.49.14.210   quay.io
+32.193.202.25   quay.io
 # Docker Hosts End
 # TMM Hosts Start
 18.155.173.80   themoviedb.org
-18.155.173.80   www.themoviedb.org
-65.8.20.79      api.themoviedb.org
-18.238.96.26    tmdb.org
-18.155.173.89   api.tmdb.org
-143.244.50.214  image.tmdb.org
+18.155.173.111  www.themoviedb.org
+65.8.20.119     api.themoviedb.org
+18.238.96.86    tmdb.org
+18.155.173.85   api.tmdb.org
+169.150.249.163 image.tmdb.org
 65.8.197.76     api.thetvdb.com
-104.26.6.244    opensubtitles.org
-104.26.6.244    www.opensubtitles.org
+104.26.7.244    opensubtitles.org
+104.26.7.244    www.opensubtitles.org
 104.26.7.244    api.opensubtitles.org
-158.69.210.98   assets.fanart.tv
+158.69.209.125  assets.fanart.tv
 # TMM Hosts End
 # == Host PT START ==
 # ===== PT站点加速开始 ===== #
 188.114.96.3    tracker.ptcafe.club
-188.114.96.3    www.pttime.org
-104.21.49.214   ptfans.cc
+104.21.79.186   www.pttime.org
+172.67.193.144  ptfans.cc
 188.114.96.3    tracker.hxpt.org
 172.66.165.79   tracker.m-team.cc
-104.21.38.57    longpt.org
-104.21.45.175   cc.mypt.cc
-172.67.199.23   tracker.0ff.cc
+172.67.219.137  longpt.org
+172.67.217.180  cc.mypt.cc
+104.21.21.137   tracker.0ff.cc
 104.21.35.200   www.ptlover.cc
-103.143.80.240  tracker.ptskit.org
-103.121.93.21   tracker.ptskit.com
-188.114.97.3    52pt.site
+68.64.177.97    tracker.ptskit.org
+68.64.177.38    tracker.ptskit.com
+172.67.151.173  52pt.site
 188.114.96.3    rousi.pro
 109.71.253.36   open.acgtracker.com
-172.67.169.88   www.pttime.fun
-172.67.188.191  tracker.carpt.net
+104.21.79.76    www.pttime.fun
+104.21.65.34    tracker.carpt.net
 188.114.96.3    tracker.xingyungept.org
-104.21.55.164   hdvideo.top
+172.67.171.170  hdvideo.top
 # ===== PT站点加速结束 ===== #
 # == Host PT END ==
 # ING Hosts End
